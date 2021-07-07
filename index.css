@@ -2,7 +2,9 @@
 
 
 
-
+.new-class {
+    font: 100px;
+}
 
 /* this is the top navigation bar */
 .ul-navbar {
@@ -150,6 +152,8 @@
 .email-url:hover {
     color: greenyellow;
 }
+
+
 
 
 
